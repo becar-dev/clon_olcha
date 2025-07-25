@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite baza
+db.sqlite3
+
+# VSCode config (agar kerak bo'lmasa)
+.vscode/

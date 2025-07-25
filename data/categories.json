@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Elektronika",
+        "parent": null,
+        "image": "https://placehold.co/600x400/007BFF/FFFFFF?text=Elektronika"
+    },
+    {
+        "id": 2,
+        "name": "Maishiy texnika",
+        "parent": 1,
+        "image": "https://placehold.co/600x400/17A2B8/FFFFFF?text=Maishiy+texnika"
+    },
+    {
+        "id": 3,
+        "name": "Televizorlar",
+        "parent": 2,
+        "image": "https://placehold.co/600x400/28A745/FFFFFF?text=Televizorlar"
+    },
+    {
+        "id": 4,
+        "name": "Muzlatgichlar",
+        "parent": 2,
+        "image": "https://placehold.co/600x400/FFC107/000000?text=Muzlatgichlar"
+    },
+    {
+        "id": 5,
+        "name": "Kir yuvish mashinalari",
+        "parent": 2,
+        "image": "https://placehold.co/600x400/DC3545/FFFFFF?text=Kir+yuvish"
+    },
+    {
+        "id": 6,
+        "name": "Smartfonlar va Gadjetlar",
+        "parent": 1,
+        "image": "https://placehold.co/600x400/FD7E14/FFFFFF?text=Gadjetlar"
+    },
+    {
+        "id": 7,
+        "name": "Smartfonlar",
+        "parent": 6,
+        "image": "https://placehold.co/600x400/6610F2/FFFFFF?text=Smartfonlar"
+    },
+    {
+        "id": 8,
+        "name": "Aqlli soatlar",
+        "parent": 6,
+        "image": "https://placehold.co/600x400/6F42C1/FFFFFF?text=Aqlli+soatlar"
+    },
+    {
+        "id": 9,
+        "name": "Quloqchinlar",
+        "parent": 6,
+        "image": "https://placehold.co/600x400/E83E8C/FFFFFF?text=Quloqchinlar"
+    },
+    {
+        "id": 10,
+        "name": "Kompyuter texnikasi",
+        "parent": 1,
+        "image": "https://placehold.co/600x400/20C997/FFFFFF?text=Kompyuterlar"
+    },
+    {
+        "id": 11,
+        "name": "Noutbuklar",
+        "parent": 10,
+        "image": "https://placehold.co/600x400/007BFF/FFFFFF?text=Noutbuklar"
+    },
+    {
+        "id": 12,
+        "name": "Kompyuter aksessuarlari",
+        "parent": 10,
+        "image": "https://placehold.co/600x400/17A2B8/FFFFFF?text=Aksessuarlar"
+    },
+    {
+        "id": 13,
+        "name": "O'yinlar va Ko'ngilochar",
+        "parent": 1,
+        "image": "https://placehold.co/600x400/28A745/FFFFFF?text=O'yinlar"
+    },
+    {
+        "id": 14,
+        "name": "O'yin konsollari",
+        "parent": 13,
+        "image": "https://placehold.co/600x400/FFC107/000000?text=Konsollar"
+    },
+    {
+        "id": 15,
+        "name": "Oshxona texnikasi",
+        "parent": 2,
+        "image": "https://placehold.co/600x400/DC3545/FFFFFF?text=Oshxona"
+    },
+    {
+        "id": 16,
+        "name": "Uy uchun texnika",
+        "parent": 2,
+        "image": "https://placehold.co/600x400/FD7E14/FFFFFF?text=Uy+uchun"
+    },
+    {
+        "id": 17,
+        "name": "Portativ qurilmalar",
+        "parent": 6,
+        "image": "https://placehold.co/600x400/6610F2/FFFFFF?text=Portativ"
+    },
+    {
+        "id": 18,
+        "name": "Foto va Video",
+        "parent": 13,
+        "image": "https://placehold.co/600x400/6F42C1/FFFFFF?text=Foto+Video"
+    }
+]

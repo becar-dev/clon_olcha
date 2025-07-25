@@ -1,0 +1,1 @@
+web: gunicorn olcha.wsgi --log-file -
